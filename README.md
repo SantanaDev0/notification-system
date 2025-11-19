@@ -26,7 +26,7 @@ Sistema de notificações em tempo real usando WebSocket (Socket.IO) com suporte
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/notification-system.git
+git clone https://github.com/SantanaDev0/notification-system.git
 
 # Entre no diretório
 cd notification-system
